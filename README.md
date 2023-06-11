@@ -1,2 +1,15 @@
 # Example-Songs-API
-A toy REST API for use with a tutorial, nothing to see here
+
+This is a toy REST API that can be used as an example for PingOne Authorize.
+
+Endpoints:
+
+* `/bands`
+* `/labels`
+* `/songs`
+
+Limitations:
+
+* Cannot add or modify data
+* Resource IDs are reset upon startup
+
